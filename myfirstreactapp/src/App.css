@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.customTypography {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.dataGridContainer {
+  
+  background-color: rgba(255, 255, 255, 0.93);
+}
+
+.Container {
+  padding: 80px;
+  background: url("images/onepiece.png");
+  background-size: contain;
+}
+
